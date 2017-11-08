@@ -1,18 +1,18 @@
 {
-  "name": “espertomagento/magento2-italian-language-pack",
+  "name": "espertomagento/magento2-italian-language-pack",
   "description": "Italian language package for Magento 2",
-  "homepage": "https://www.espertomagent.it”,
+  "homepage": "https://www.espertomagent.it",
   "type": "magento2-language",
-  "version": “1.0.0”,
+  "version": "1.0.0",
   "license": [
     "MIT"
   ],
   "authors": [
     {
-      "name": “EspertoMagento.it",
-      "email": “info@espertomagent.it”,
+      "name": "EspertoMagento.it",
+      "email": "info@espertomagent.it",
       "homepage": "https://www.espertomagent.it",
-      "role": “Owner”
+      "role": "Owner"
     }
   ],
   "autoload": {
