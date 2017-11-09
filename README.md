@@ -47,7 +47,7 @@ If you have not added this authentication, you can follow [this guide](http://de
 ## How to active Italian language pack
 
 Now time to active the Italian language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
-![{{Magento 2 Italian language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
+![{{Magento 2 Italian language pack}}](https://www.espertomagent.it/media/languagepack.png)
 
 
 <!-- ## Translation process of Italian Language Pack
