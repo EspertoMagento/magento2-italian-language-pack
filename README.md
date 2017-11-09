@@ -7,9 +7,8 @@ Read more [Magento 2 Italian Language Pack](https://www.espertomagent.it/shop/ma
 
 ## Overview
 
-- Download & Contribute
 - Install Italian Language Pack
-- How to Install Italian Language Pack
+- How To Active Italian Language Pack
 
 ## How to Install Italian Language Pack
 
