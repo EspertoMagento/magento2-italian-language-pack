@@ -18,7 +18,7 @@ Install the Italian language pack via composer is never easier.
 **Install Italian pack**:
 
 ```
-composer require espertomagento/magento2-italian-language-pack
+composer require espertomagento/magento2-italian-language-pack:dev-master
 php bin/magento setup:static-content:deploy it_IT
 php bin/magento cache:clean
 php bin/magento cache:flush
