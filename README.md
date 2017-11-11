@@ -29,7 +29,7 @@ php bin/magento cache:flush
 **Update  Italian pack**:
 
 ```
-composer update espertomagento/magento2-italian-language-pack:dev-master
+composer update espertomagento/magento2-italian-language-pack
 php bin/magento setup:static-content:deploy it_IT
 php bin/magento indexer:reindex
 php bin/magento cache:clean
