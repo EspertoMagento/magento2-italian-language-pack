@@ -2256,7 +2256,7 @@ Edit,Modifica,module,Magento_CatalogEvent
 "You can buy %1 only in quantities of %2 at a time.","È possibile acquistare %1 solo in quantità di %2 per volta.",module,Magento_CatalogInventory
 "You can buy this product only in quantities of %1 at a time.","È possibile acquistare questo prodotto solo in quantità di %1 per volta.",module,Magento_CatalogInventory
 "Decimal qty increments is not allowed.","Gli incrementi decimali di qtà non sono consentiti.",module,Magento_CatalogInventory
-"Stock Status","Status inventario",module,Magento_CatalogInventory
+"Stock Status","Stato inventario",module,Magento_CatalogInventory
 Quantity,Quantità,module,Magento_CatalogInventory
 "Advanced Inventory","Inventario Avanzato",module,Magento_CatalogInventory
 "%1 is available to buy in increments of %2","%1 è disponibile per l'acquisto in incrementi di %2",module,Magento_CatalogInventory
@@ -10012,7 +10012,7 @@ Description,Descrizione,module,Magento_ScheduledImportExport
 "Entity Type","Tipo entità",module,Magento_ScheduledImportExport
 "Start Time","Ora di inizio",module,Magento_ScheduledImportExport
 Frequency,Frequenza,module,Magento_ScheduledImportExport
-Status,Status,module,Magento_ScheduledImportExport
+Status,Stato,module,Magento_ScheduledImportExport
 "Server Type","Tipo Server",module,Magento_ScheduledImportExport
 "File Directory","Directory del file",module,Magento_ScheduledImportExport
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Per il tipo ""Server locale"" utilizzare il percorso relativo all'installazione di Magento, ad esempio var/export, var/import, var/export/qualche/directory",module,Magento_ScheduledImportExport
@@ -12714,3 +12714,12 @@ Footer,"Piè di pagina",theme,frontend/Magento/luma
 "Account Dashboard","Dashboard Account",theme,frontend/Magento/luma
 "Address Book",Rubrica,theme,frontend/Magento/luma
 "Account Information","Informazioni Account",theme,frontend/Magento/luma
+"Product Name", "Nome Prodotto",module,Magento_Catalog
+"Weight","Peso",module,Magento_Catalog
+"Visibility","Visibilità",module,Magento_Catalog
+"Country of Manufacture","Paese Produttore",module,Magento_Catalog
+"New","Nuovo",module,Magento_Catalog
+"Sale","In Offerta",module,Magento_Catalog
+"Search Engine Optimization","Ottimizzazione Motori di ricerca",module,Magento_Catalog
+"Description","Descrizione",module,Magento_Catalog
+"Short Description","Descrizione Breve",module,Magento_Catalog
