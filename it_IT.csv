@@ -12723,4 +12723,4 @@ Footer,"Piè di pagina",theme,frontend/Magento/luma
 "Search Engine Optimization","Ottimizzazione Motori di ricerca",module,Magento_Backend
 "Description","Descrizione",module,Magento_Backend
 "Short Description","Descrizione Breve",module,Magento_Backend
-"Status","Stato",Magento_Backend
+"Status","Stato",module,Magento_Backend
