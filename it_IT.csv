@@ -12714,12 +12714,13 @@ Footer,"Piè di pagina",theme,frontend/Magento/luma
 "Account Dashboard","Dashboard Account",theme,frontend/Magento/luma
 "Address Book",Rubrica,theme,frontend/Magento/luma
 "Account Information","Informazioni Account",theme,frontend/Magento/luma
-"Product Name", "Nome Prodotto",module,Magento_Catalog
-"Weight","Peso",module,Magento_Catalog
-"Visibility","Visibilità",module,Magento_Catalog
-"Country of Manufacture","Paese Produttore",module,Magento_Catalog
-"New","Nuovo",module,Magento_Catalog
-"Sale","In Offerta",module,Magento_Catalog
-"Search Engine Optimization","Ottimizzazione Motori di ricerca",module,Magento_Catalog
-"Description","Descrizione",module,Magento_Catalog
-"Short Description","Descrizione Breve",module,Magento_Catalog
+"Product Name", "Nome Prodotto",module,Magento_Backend
+"Weight","Peso",module,Magento_Backend
+"Visibility","Visibilità",module,Magento_Backend
+"Country of Manufacture","Paese Produttore",module,Magento_Backend
+"New","Nuovo",module,Magento_Backend
+"Sale","In Offerta",module,Magento_Backend
+"Search Engine Optimization","Ottimizzazione Motori di ricerca",module,Magento_Backend
+"Description","Descrizione",module,Magento_Backend
+"Short Description","Descrizione Breve",module,Magento_Backend
+"Status","Stato",Magento_Backend
