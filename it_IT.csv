@@ -12724,3 +12724,4 @@ Footer,"Piè di pagina",theme,frontend/Magento/luma
 "Description","Descrizione",module,Magento_Backend
 "Short Description","Descrizione Breve",module,Magento_Backend
 "Status","Stato",module,Magento_Backend
+"Simple Product","Prodotto semplice",module,Magento_Backend
