@@ -1,6 +1,6 @@
 ## Magento 2 Italian Language Pack
 
-**Magento 2 Italian Language Pack** is special gift for Magento 2 Community Edition. The data of the translation is supplied by Magento 2 Translation Project of Crowdin site, on which you will contribute into the project and download the zip file to install on your own store. This knowledge base will include full of the clear guides that supports you to convert the default language (English) into Italian language on your entire store.
+**Magento 2 Italian Language Pack** is special gift for Magento 2 Community Edition. This guide supports you to convert the default language (English) into Italian language on your entire store.
 
 Read more [Magento 2 Italian Language Pack](https://www.espertomagent.it/shop/magento2-italian-language-pack.html)
 
