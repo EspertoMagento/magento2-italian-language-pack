@@ -93,3 +93,6 @@ Now time to active the Italian language pack for your Magento 2 store. From Mage
 - Magento v2.2.9
 - Magento v2.3.0
 - Magento v2.3.1
+- Magento v2.3.2
+- Magento v2.3.3
+- Magento v2.3.4
