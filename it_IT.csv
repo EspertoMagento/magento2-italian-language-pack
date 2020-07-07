@@ -12727,3 +12727,4 @@ Footer,"Piè di pagina",theme,frontend/Magento/luma
 "Simple Product","Prodotto semplice",module,Magento_Backend
 "Cart","Carrello",module,Magento_Checkout
 "You have no items in your shopping cart.","Non hai prodotti nel carrello.",module,Magento_Checkout
+"This is a required field.","Questo è un campo obbligatorio.",module,Magento_Customer
