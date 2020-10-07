@@ -12728,3 +12728,16 @@ Footer,"Piè di pagina",theme,frontend/Magento/luma
 "Cart","Carrello",module,Magento_Checkout
 "You have no items in your shopping cart.","Non hai prodotti nel carrello.",module,Magento_Checkout
 "This is a required field.","Questo è un campo obbligatorio.",module,Magento_Customer
+"Don't show this popup again","Non mostrarmi il popup in futuro",,
+"Go","Vai",,
+"This is a required field.","Questo è un campo obbligatorio.",,
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Articolo %1 aggiunto al tuo <a href=""%2"">carrello</a>.",,
+"Item in cart","Articolo/i nel carrello",,
+"Featured","In Evidenza",,
+"Ship here","Spedisci qui",,
+"A confirmation request has been sent.","E' stata inviata una conferma per la tua richiesta.",,
+"We have removed your newsletter subscription.","Ti abbiamo rimosso dagli iscritti alla newsletter.",,
+"The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verifica il codice e riprova.",,
+"You are subscribed to ""General Subscription"".","Sei iscritto a ""Abbonamento Generale"".",,
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","Le opzioni richieste del prodotto non sono state inserite. Assicurati di aver inserito le opzioni e riprova.",,
+"Load More ...","Vedi Altri ...",,
