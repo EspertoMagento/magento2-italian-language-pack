@@ -6824,6 +6824,7 @@ Paused,Sospeso,module,Magento_Newsletter
 Copy,Copia,module,Magento_Newsletter
 "Are you sure you want to delete this template?","Sei sicuro di voler eliminare questo template?",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Iscriviti alla nostra Newsletter:",module,Magento_Newsletter
+"Sign Up for Our Newsletter","Iscriviti alla nostra Newsletter",,
 "Enter your email address","Inserisci la tua email",module,Magento_Newsletter
 Subscribe,Iscriviti,module,Magento_Newsletter
 "Newsletter subscription confirmation","Conferma di sottoscrizione newsletter",module,Magento_Newsletter
@@ -12741,3 +12742,17 @@ Footer,"Piè di pagina",theme,frontend/Magento/luma
 "You are subscribed to ""General Subscription"".","Sei iscritto a ""Abbonamento Generale"".",,
 "The product's required option(s) weren't entered. Make sure the options are entered and try again.","Le opzioni richieste del prodotto non sono state inserite. Assicurati di aver inserito le opzioni e riprova.",,
 "Load More ...","Vedi Altri ...",,
+"Search...","Cerca..."
+"Allow remote shopping assistance","Consenti assistenza per acquisti da remoto",,
+"Featured","In Evidenza",,
+"My Rewards History","Cronologia Punti Fedeltà",module,Amasty_Rewards
+"My Rewards","Saldo Punti",module,Amasty_Rewards
+"You have no rewards.","Non hai nessun punto fedeltà.",module,Amasty_Rewards
+"Note: You need at least %1 points to pay for the order with reward points.","Nota: sono necessari almeno %1 punti per pagare l'ordine con punti premio.",module,Amasty_Rewards
+"You can earn","Puoi guadagnare",module,Amasty_Rewards
+"%1 Reward Points","%1 Punti",module,Amasty_Rewards
+"for completing your purchase!","se completi il tuo ordine!",module,Amasty_Rewards
+"Apply Reward","Applica Punti Premio",module,Amasty_Rewards
+"You Have","Tu hai",module,Amasty_Rewards
+"points left","punti premio",module,Amasty_Rewards
+"for every","per ogni",module,Amasty_Rewards
