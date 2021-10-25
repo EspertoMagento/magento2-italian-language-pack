@@ -1264,12 +1264,12 @@ To,Al,module,Magento_Bundle
 "Customize and Add to Cart","Personalizza e Aggiungi al carrello",module,Magento_Bundle
 "* Required Fields","* Campi obbligatori",module,Magento_Bundle
 "Your Customization","La tua personalizzazione",module,Magento_Bundle
-Availability,Disponibilita',module,Magento_Bundle
+Availability,Disponibilità,module,Magento_Bundle
 "In stock",Disponibile,module,Magento_Bundle
 "Out of stock","Non Disponibile",module,Magento_Bundle
 Summary,Riepilogo,module,Magento_Bundle
 "%1 x %2","%1 x %2",module,Magento_Bundle
-Availability:,Disponibilita':,module,Magento_Bundle
+Availability:,Disponibilità:,module,Magento_Bundle
 Quantity,Quantità,module,Magento_Bundle
 "Customize %1","Personalizza %1",module,Magento_Bundle
 "No options of this product are available.","Nessuna opzione di questo prodotto è disponibile.",module,Magento_Bundle
@@ -4635,7 +4635,7 @@ SKU,SKU,module,Magento_Downloadable
 U,U,module,Magento_Downloadable
 "Select all","Seleziona tutto",module,Magento_Downloadable
 "Unselect all","Deseleziona tutto",module,Magento_Downloadable
-Availability,Disponibilita',module,Magento_Downloadable
+Availability,Disponibilità,module,Magento_Downloadable
 "In stock",Disponibile,module,Magento_Downloadable
 "Out of stock","Non Disponibile",module,Magento_Downloadable
 "Go to <a href=""%1"">My Downloadable Products</a>","Vai ai <a href=""%1"">Prodotti scaricabili</a>",module,Magento_Downloadable
@@ -5107,7 +5107,7 @@ To,A,module,Magento_GiftCard
 "Email Template","Template email",module,Magento_GiftCard
 "All Websites [%1]","Tutti i Website [%1]",module,Magento_GiftCard
 "%1 [%2]","%1 [%2]",module,Magento_GiftCard
-Availability:,Disponibilita':,module,Magento_GiftCard
+Availability:,Disponibilità:,module,Magento_GiftCard
 "Out of stock","Non Disponibile",module,Magento_GiftCard
 "Choose an Amount...","Scegli un importo...",module,Magento_GiftCard
 "Other Amount...","Altro importo...",module,Magento_GiftCard
@@ -5128,7 +5128,7 @@ Delete,Elimina,module,Magento_GiftCard
 From,Dal,module,Magento_GiftCard
 "Minimum: %1","Minimo: %1",module,Magento_GiftCard
 "Maximum: %1","Massimo: %1",module,Magento_GiftCard
-Availability,Disponibilita',module,Magento_GiftCard
+Availability,Disponibilità,module,Magento_GiftCard
 "In stock",Disponibile,module,Magento_GiftCard
 "You've been sent a gift from %store_name","Ti è stato inviato un regalo da %store_name",module,Magento_GiftCard
 "%name,","%name,",module,Magento_GiftCard
@@ -5777,7 +5777,7 @@ Price,Prezzo,module,Magento_GroupedProduct
 "Default Quantity","Quantità predefinita",module,Magento_GroupedProduct
 Actions,Azioni,module,Magento_GroupedProduct
 "Associated Products","Prodotti associati",module,Magento_GroupedProduct
-Availability:,Disponibilita':,module,Magento_GroupedProduct
+Availability:,Disponibilità:,module,Magento_GroupedProduct
 "Out of stock","Non Disponibile",module,Magento_GroupedProduct
 "Product Name","Nome prodotto",module,Magento_GroupedProduct
 Qty,Qtà,module,Magento_GroupedProduct
@@ -5785,7 +5785,7 @@ Qty,Qtà,module,Magento_GroupedProduct
 "There are no grouped products.","Non esistono prodotti raggruppati.",module,Magento_GroupedProduct
 "Default Qty","Qtà predefinita",module,Magento_GroupedProduct
 "Starting at","A partire da",module,Magento_GroupedProduct
-Availability,Disponibilita',module,Magento_GroupedProduct
+Availability,Disponibilità,module,Magento_GroupedProduct
 "In stock",Disponibile,module,Magento_GroupedProduct
 "Grouped product items","Elementi prodotti raggruppati",module,Magento_GroupedProduct
 "Grouped Product Image","Immagine del prodotto raggruppato",module,Magento_GroupedProduct
@@ -12545,7 +12545,7 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "View Product","Visualizza prodotto",module,Magento_Wishlist
 Qty,Qtà,module,Magento_Wishlist
 "Add to Cart","Aggiungi al Carrello",module,Magento_Wishlist
-Availability,Disponibilita',module,Magento_Wishlist
+Availability,Disponibilità,module,Magento_Wishlist
 "In stock",Disponibile,module,Magento_Wishlist
 "Out of stock","Non Disponibile",module,Magento_Wishlist
 Edit,Modifica,module,Magento_Wishlist
