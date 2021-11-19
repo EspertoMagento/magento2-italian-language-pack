@@ -30,8 +30,8 @@ Notifications,Notifiche,module,Magento_AdminNotification
 "The message has been marked as Read.","Il messaggio è stato contrassegnato come letto.",module,Magento_AdminNotification
 "We couldn't mark the notification as Read because of an error.","Non è stato possibile segnare la notifica come letta a causa di un errore.",module,Magento_AdminNotification
 "Please select messages.","Si prega di selezionare i messaggi.",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","Elementi segnati come letti: %1.",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","Elementi rimossi: %1.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Prodotti segnati come letti: %1.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Prodotti rimossi: %1.",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","Non è stato possibile eliminare i messaggi a causa di un errore.",module,Magento_AdminNotification
 "The message has been removed.","Il messaggio è stato eliminato.",module,Magento_AdminNotification
 "1 Hour","1 ora",module,Magento_AdminNotification
@@ -154,7 +154,7 @@ No,No,module,Magento_AdvancedCheckout
 Remove,Elimina,module,Magento_AdvancedCheckout
 "The coupon code ""%1"" is not valid.","Il codice coupon ""%1"" non è valido.",module,Magento_AdvancedCheckout
 "Shopping Cart Items","Prodotti nel carrello",module,Magento_AdvancedCheckout
-Qty,Qtà,module,Magento_AdvancedCheckout
+Qty,Quantità,module,Magento_AdvancedCheckout
 Subtotal,Subtotale,module,Magento_AdvancedCheckout
 Discount,Sconto,module,Magento_AdvancedCheckout
 "Row Subtotal","Riga Subtotale",module,Magento_AdvancedCheckout
@@ -295,9 +295,9 @@ Dismiss,Chiudi,module,Magento_AsynchronousOperations
 "Description of Operation","Descrizione dell'operazione",module,Magento_AsynchronousOperations
 Summary,Riepilogo,module,Magento_AsynchronousOperations
 "Start Time","Ora di inizio",module,Magento_AsynchronousOperations
-"Items to Retry","Elementi da riprovare",module,Magento_AsynchronousOperations
+"Items to Retry","Prodotti da riprovare",module,Magento_AsynchronousOperations
 "To retry, select the items and click “Retry”.","Per riprovare, seleziona gli elementi e clicca su ""Riprova"".",module,Magento_AsynchronousOperations
-"Items That Can’t Be Updated.","Elementi che non possono essere aggiornati.",module,Magento_AsynchronousOperations
+"Items That Can’t Be Updated.","Prodotti che non possono essere aggiornati.",module,Magento_AsynchronousOperations
 ID,ID,module,Magento_AsynchronousOperations
 Status,Status,module,Magento_AsynchronousOperations
 "Meta Information","Meta informazioni",module,Magento_AsynchronousOperations
@@ -391,7 +391,7 @@ Bestsellers,"Più venduti",module,Magento_Backend
 Customers,Clienti,module,Magento_Backend
 Customer,Cliente,module,Magento_Backend
 Guest,Ospite,module,Magento_Backend
-Items,Elementi,module,Magento_Backend
+Items,Prodotti,module,Magento_Backend
 Total,Totale,module,Magento_Backend
 "Lifetime Sales","Vendite totali",module,Magento_Backend
 "Average Order","Ordine medio",module,Magento_Backend
@@ -678,7 +678,7 @@ Marketing,Marketing,module,Magento_Backend
 "SEO & Search","Ricerca & SEO",module,Magento_Backend
 "User Content","Contenuti dell\'utente",module,Magento_Backend
 Content,Contenuto,module,Magento_Backend
-Elements,Elementi,module,Magento_Backend
+Elements,Prodotti,module,Magento_Backend
 Design,Design,module,Magento_Backend
 Schedule,Pianifica,module,Magento_Backend
 Settings,Impostazioni,module,Magento_Backend
@@ -1187,7 +1187,7 @@ Currency,Valuta,module,Magento_BraintreeTwo
 Dynamic,Dinamico,module,Magento_Bundle
 Fixed,Fisso,module,Magento_Bundle
 "Create New Option","Crea una nuova opzione",module,Magento_Bundle
-"Bundle Items","Elementi del Bundle",module,Magento_Bundle
+"Bundle Items","Prodotti del Bundle",module,Magento_Bundle
 "Add Products to Option","Aggiungi prodotti all'opzione",module,Magento_Bundle
 Close,Chiudi,module,Magento_Bundle
 "Delete Option","Elimina Opzione",module,Magento_Bundle
@@ -1853,7 +1853,7 @@ Groups,Gruppi,module,Magento_Catalog
 "Product offline","Prodotto offline",module,Magento_Catalog
 "Product online status","Stato del prodotto online",module,Magento_Catalog
 "Manage Stock","Gestisci scorte",module,Magento_Catalog
-Qty,Qtà,module,Magento_Catalog
+Qty,Quantità,module,Magento_Catalog
 "Out-of-Stock Threshold","Soglia di non disponibilità",module,Magento_Catalog
 "Minimum Qty Allowed in Shopping Cart","Qtà minima consentita nel carrello",module,Magento_Catalog
 "Maximum Qty Allowed in Shopping Cart","Qtà massima consentita nel carrello",module,Magento_Catalog
@@ -2263,7 +2263,7 @@ Quantity,Quantità,module,Magento_CatalogInventory
 "Only %1 left","Solo %1 rimasto/i",module,Magento_CatalogInventory
 "Product availability","Disponibilità prodotto",module,Magento_CatalogInventory
 "Product Name","Nome prodotto",module,Magento_CatalogInventory
-Qty,Qtà,module,Magento_CatalogInventory
+Qty,Quantità,module,Magento_CatalogInventory
 "Inventory Section","Sezione magazzino",module,Magento_CatalogInventory
 Inventory,Inventario,module,Magento_CatalogInventory
 "Stock Options","Opzioni inventario",module,Magento_CatalogInventory
@@ -2648,7 +2648,7 @@ Checkout,Checkout,module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Trasporto con tale metodo non trovato: %1, %2",module,Magento_Checkout
 "Shipping method is not applicable for empty cart","Il metodo di spedizione non può essere scelto con il carrello vuoto",module,Magento_Checkout
 item,elemento,module,Magento_Checkout
-items,elementi,module,Magento_Checkout
+items,prodotti,module,Magento_Checkout
 "Totals calculation is not applicable to empty cart","Calcolo totali non è applicabile per il carrello vuoto",module,Magento_Checkout
 "Invalid data","Dati non validi",module,Magento_Checkout
 "The customer address is not valid.","Indirizzo cliente non valido.",module,Magento_Checkout
@@ -2669,7 +2669,7 @@ Message,Messaggio,module,Magento_Checkout
 "Shopping Cart Items","Prodotti nel carrello",module,Magento_Checkout
 Item,Oggetto,module,Magento_Checkout
 Price,Prezzo,module,Magento_Checkout
-Qty,Qtà,module,Magento_Checkout
+Qty,Quantità,module,Magento_Checkout
 Subtotal,Subtotale,module,Magento_Checkout
 "Continue Shopping","Continua gli Acquisti",module,Magento_Checkout
 "Clear Shopping Cart","Svuota Carrello",module,Magento_Checkout
@@ -2698,7 +2698,7 @@ Loading...,Caricamento...,module,Magento_Checkout
 Reason,Motivo,module,Magento_Checkout
 "Checkout Type","Tipo Checkout",module,Magento_Checkout
 Customer:,Cliente:,module,Magento_Checkout
-Items,Elementi,module,Magento_Checkout
+Items,Prodotti,module,Magento_Checkout
 Total:,Totale:,module,Magento_Checkout
 "Billing Address:","Indirizzo di Fatturazione:",module,Magento_Checkout
 "Shipping Address:","Indirizzo di Spedizione:",module,Magento_Checkout
@@ -3480,7 +3480,7 @@ Purchased,Acquistato,module,Magento_Customer
 "Purchase Point","Punto di acquisto",module,Magento_Customer
 "Customer View","Vista Cliente",module,Magento_Customer
 "There are no items in customer's shopping cart.","Non ci sono articoli nel carrello del cliente.",module,Magento_Customer
-Qty,Qtà,module,Magento_Customer
+Qty,Quantità,module,Magento_Customer
 Confirmed,Confermato,module,Magento_Customer
 "Confirmation Required","Conferma obbligatoria",module,Magento_Customer
 "Confirmation Not Required","Conferma non obbligatoria",module,Magento_Customer
@@ -4654,7 +4654,7 @@ From:,Da:,module,Magento_Downloadable
 To:,A:,module,Magento_Downloadable
 Message:,Messaggio:,module,Magento_Downloadable
 "Product Name","Nome prodotto",module,Magento_Downloadable
-Qty,Qtà,module,Magento_Downloadable
+Qty,Quantità,module,Magento_Downloadable
 Subtotal,Subtotale,module,Magento_Downloadable
 "Discount Amount","Sconto quantità",module,Magento_Downloadable
 "Row Total","Totale riga",module,Magento_Downloadable
@@ -5451,7 +5451,7 @@ Customers,Clienti,module,Magento_GiftRegistry
 "Please correct the address.","Correggi l'indirizzo.",module,Magento_GiftRegistry
 "You saved this gift registry.","Hai salvato la lista regalo.",module,Magento_GiftRegistry
 "We couldn't save this gift registry.","Non è possibile salvare questa lista regalo.",module,Magento_GiftRegistry
-"Gift Registry Items","Elementi della lista regalo",module,Magento_GiftRegistry
+"Gift Registry Items","Prodotti della lista regalo",module,Magento_GiftRegistry
 "Something went wrong while sending email(s).","Qualcosa è andato storto durante l'invio email.",module,Magento_GiftRegistry
 "Something went wrong while sharing the gift registry.","Qualcosa è andato storto durante la condivisione della lista reglo.",module,Magento_GiftRegistry
 "You updated the gift registry items.","Hai aggiornato gli elementi della lista regalo.",module,Magento_GiftRegistry
@@ -5534,7 +5534,7 @@ Fax,Fax,module,Magento_GiftRegistry
 "Ship to registrant's address","Spedisci all'indirizzo del dichiarante",module,Magento_GiftRegistry
 "Use the gift registry shipping address","Usa l'indirizzo di spedizione della lista regalo",module,Magento_GiftRegistry
 "Added On","Aggiunto il",module,Magento_GiftRegistry
-Qty,Qtà,module,Magento_GiftRegistry
+Qty,Quantità,module,Magento_GiftRegistry
 "Qty Fulfilled","Qty soddisfatte",module,Magento_GiftRegistry
 "Update Gift Registry","Aggiorna lista regalo",module,Magento_GiftRegistry
 Back,Indietro,module,Magento_GiftRegistry
@@ -5780,14 +5780,14 @@ Actions,Azioni,module,Magento_GroupedProduct
 Availability:,Disponibilità:,module,Magento_GroupedProduct
 "Out of stock","Non Disponibile",module,Magento_GroupedProduct
 "Product Name","Nome prodotto",module,Magento_GroupedProduct
-Qty,Qtà,module,Magento_GroupedProduct
+Qty,Quantità,module,Magento_GroupedProduct
 "No options of this product are available.","Nessuna opzione di questo prodotto è disponibile.",module,Magento_GroupedProduct
 "There are no grouped products.","Non esistono prodotti raggruppati.",module,Magento_GroupedProduct
 "Default Qty","Qtà predefinita",module,Magento_GroupedProduct
 "Starting at","A partire da",module,Magento_GroupedProduct
 Availability,Disponibilità,module,Magento_GroupedProduct
 "In stock",Disponibile,module,Magento_GroupedProduct
-"Grouped product items","Elementi prodotti raggruppati",module,Magento_GroupedProduct
+"Grouped product items","Prodotti prodotti raggruppati",module,Magento_GroupedProduct
 "Grouped Product Image","Immagine del prodotto raggruppato",module,Magento_GroupedProduct
 Select...,Seleziona...,module,Magento_GroupedProduct
 Type,Tipo,module,Magento_GroupedProduct
@@ -6230,7 +6230,7 @@ Position,Posizione,module,Magento_LayeredNavigation
 "Position in Layered Navigation","Posizione nella navigazione a livelli",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.","Posizione dell'attributo nel blocco della navigazione a livelli.",module,Magento_LayeredNavigation
 item,elemento,module,Magento_LayeredNavigation
-items,elementi,module,Magento_LayeredNavigation
+items,prodotti,module,Magento_LayeredNavigation
 "Now Shopping by","Ora acquista per",module,Magento_LayeredNavigation
 Previous,Precedente,module,Magento_LayeredNavigation
 Remove,Elimina,module,Magento_LayeredNavigation
@@ -6528,7 +6528,7 @@ InvalidArgumentException,InvalidArgumentException,module,Magento_MultipleWishlis
 Refresh,Aggiorna,module,Magento_MultipleWishlist
 "All Wish Lists","Tutte le liste desideri",module,Magento_MultipleWishlist
 Item,Oggetto,module,Magento_MultipleWishlist
-Qty,Qtà,module,Magento_MultipleWishlist
+Qty,Quantità,module,Magento_MultipleWishlist
 Price,Prezzo,module,Magento_MultipleWishlist
 Remove,Elimina,module,Magento_MultipleWishlist
 "Add To Order","Aggiungere all'ordine",module,Magento_MultipleWishlist
@@ -6538,7 +6538,7 @@ Remove,Elimina,module,Magento_MultipleWishlist
 Owner,Proprietario,module,Magento_MultipleWishlist
 Name,Nome,module,Magento_MultipleWishlist
 Updated,Aggiornato,module,Magento_MultipleWishlist
-"Wish List Items","Elementi lista desideri",module,Magento_MultipleWishlist
+"Wish List Items","Prodotti lista desideri",module,Magento_MultipleWishlist
 "You must select items to add to the cart.","È necessario selezionare gli elementi da aggiungere al carrello.",module,Magento_MultipleWishlist
 "Add to Cart","Aggiungi al Carrello",module,Magento_MultipleWishlist
 Back,Indietro,module,Magento_MultipleWishlist
@@ -6640,7 +6640,7 @@ Total,Totale,module,Magento_Multishipping
 "Back to Billing Information","Torna a informazioni di fatturazione",module,Magento_Multishipping
 "Please select a shipping address for applicable items.","Seleziona un indirizzo di spedizione per gli elementi applicabili.",module,Magento_Multishipping
 Product,Prodotto,module,Magento_Multishipping
-Qty,Qtà,module,Magento_Multishipping
+Qty,Quantità,module,Magento_Multishipping
 "Send To","Invia a",module,Magento_Multishipping
 "A shipping selection is not applicable.","Una selezione di spedizione non è applicabile.",module,Magento_Multishipping
 Actions,Azioni,module,Magento_Multishipping
@@ -6670,7 +6670,7 @@ Item,Oggetto,module,Magento_Multishipping
 Edit,Modifica,module,Magento_Multishipping
 Price,Prezzo,module,Magento_Multishipping
 Subtotal,Subtotale,module,Magento_Multishipping
-Items,Elementi,module,Magento_Multishipping
+Items,Prodotti,module,Magento_Multishipping
 "Grand Total:","Totale complessivo:",module,Magento_Multishipping
 "Submitting order information...","Invio nformazioni ordine...",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Spiacente, nessun preventivo disponibile per questo ordine in questo momento.",module,Magento_Multishipping
@@ -7432,7 +7432,7 @@ Edit,Modifica,module,Magento_Paypal
 "Submitting order information...","Invio nformazioni ordine...",module,Magento_Paypal
 Item,Oggetto,module,Magento_Paypal
 Price,Prezzo,module,Magento_Paypal
-Qty,Qtà,module,Magento_Paypal
+Qty,Quantità,module,Magento_Paypal
 Subtotal,Subtotale,module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Aggiorna i dati dell'ordine per ottenere metodi e tariffe di spedizione",module,Magento_Paypal
 or,o,module,Magento_Paypal
@@ -7539,7 +7539,7 @@ Title,Titolo,module,Magento_Paypal
 "Countries Payment Applicable From","Paesi pagamento applicabile da",module,Magento_Paypal
 "Debug Mode","Modalità Debug",module,Magento_Paypal
 "Enable SSL verification","Attiva la verifica SSL",module,Magento_Paypal
-"Transfer Cart Line Items","Elementi di riga trasferimento carrello",module,Magento_Paypal
+"Transfer Cart Line Items","Prodotti di riga trasferimento carrello",module,Magento_Paypal
 "Transfer Shipping Options","Trasferimento opzioni spedizione",module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Se questa opzione è attivata, il cliente può cambiare indirizzo di spedizione e metodo di spedizione sul sito web PayPal. In modalità live funziona solo via protocollo HTTPS.",module,Magento_Paypal
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Nota che PayPal può gestire fino a 10 opzioni di spedizione. Ecco perché Magento trasferirà solo le prime 10 opzioni di spedizione più economiche se ci sono più di 10 opzioni disponibili.",module,Magento_Paypal
@@ -7931,7 +7931,7 @@ quantity,quantità,module,Magento_Reminder
 "Shopping cart %1 a coupon applied","Il carrello %1 un coupon applicato",module,Magento_Reminder
 has,ha,module,Magento_Reminder
 "does not have","non ha",module,Magento_Reminder
-"Cart Line Items","Elementi riga carrello",module,Magento_Reminder
+"Cart Line Items","Prodotti riga carrello",module,Magento_Reminder
 "Number of shopping cart line items %1 %2:","Numero di elementi riga carrello %1 %2:",module,Magento_Reminder
 SKU,SKU,module,Magento_Reminder
 "Item SKU %1 %2","SKU elemento %1 %2",module,Magento_Reminder
@@ -8059,7 +8059,7 @@ Orders,Ordini,module,Magento_Reports
 "Offline Refunds","Rimborsi offline",module,Magento_Reports
 "Total Ordered Report","Report Totale ordinato",module,Magento_Reports
 "Sales Items","Articoli venduti",module,Magento_Reports
-Items,Elementi,module,Magento_Reports
+Items,Prodotti,module,Magento_Reports
 Revenue,Entrate,module,Magento_Reports
 Profit,Profitto,module,Magento_Reports
 Invoiced,Fatturati,module,Magento_Reports
@@ -8547,8 +8547,8 @@ Add,Aggiungi,module,Magento_Rma
 "Custom Value","Valore Personalizzato",module,Magento_Rma
 "Print Shipping Label","Stampa etichette di spedizione",module,Magento_Rma
 "Show Packages","Visualizza pacchetti",module,Magento_Rma
-Items,Elementi,module,Magento_Rma
-"Return Items","Elementi reso",module,Magento_Rma
+Items,Prodotti,module,Magento_Rma
+"Return Items","Prodotti reso",module,Magento_Rma
 Product,Prodotto,module,Magento_Rma
 SKU,SKU,module,Magento_Rma
 Remaining,Rimanenti,module,Magento_Rma
@@ -8686,7 +8686,7 @@ Ordered:,Ordinato:,module,Magento_Rma
 "Shipping Address:","Indirizzo di Spedizione:",module,Magento_Rma
 "Return Address:","Indirizzo Reso:",module,Magento_Rma
 Condition,Condizione,module,Magento_Rma
-Qty,Qtà,module,Magento_Rma
+Qty,Quantità,module,Magento_Rma
 "There is an error in quantities for item %1.","C'è un errore nelle quantità per l'articolo %1.",module,Magento_Rma
 "Authorized Qty","Qtà autorizzata",module,Magento_Rma
 "Returned Qty","Qtà Reso",module,Magento_Rma
@@ -8770,12 +8770,12 @@ Number,Numero,module,Magento_Rma
 "Return Totals","Resi Totali",module,Magento_Rma
 "Return Confirmation","Conferma Reso",module,Magento_Rma
 "Email Returns Confirmation","Email conferma reso",module,Magento_Rma
-"RMA Items Requested for","Elementi RMA richiesti per",module,Magento_Rma
+"RMA Items Requested for","Prodotti RMA richiesti per",module,Magento_Rma
 "Please Select Products to Add","Seleziona i prodotti da aggiungere",module,Magento_Rma
 Remove,Elimina,module,Magento_Rma
 Item,Oggetto,module,Magento_Rma
-"Return items","Elementi reso",module,Magento_Rma
-Sub-items,"Elementi secondari",module,Magento_Rma
+"Return items","Prodotti reso",module,Magento_Rma
+Sub-items,"Prodotti secondari",module,Magento_Rma
 "Quantity To Return","Quantità per il Reso",module,Magento_Rma
 "Remaining Quantity:","Quantità rimanente:",module,Magento_Rma
 "New Return for Order %1","Nuovo reso per l'ordine %1",module,Magento_Rma
@@ -8801,7 +8801,7 @@ Length,Lunghezza,module,Magento_Rma
 "Total Weight","Peso totale",module,Magento_Rma
 Width,Larghezza,module,Magento_Rma
 Height,Altezza,module,Magento_Rma
-"Items in the Package","Elementi nel pacchetto",module,Magento_Rma
+"Items in the Package","Prodotti nel pacchetto",module,Magento_Rma
 "Are you sure you want to delete this tracking information?","Sei sicuro di voler cancellare le informazioni di tracciamento?",module,Magento_Rma
 "Request Information","Richiesta informazioni",module,Magento_Rma
 "Date Requested","Data richiesta",module,Magento_Rma
@@ -8809,7 +8809,7 @@ Height,Altezza,module,Magento_Rma
 "This won't take long . . .","Non ci vorrà molto . . .",module,Magento_Rma
 "Shipping and Tracking Information","Informazioni di spedizione e di tracciamento",module,Magento_Rma
 "Track this shipment","Rintraccia la spedizione",module,Magento_Rma
-"Items Return Requested For","Elementi Reso richiesti per",module,Magento_Rma
+"Items Return Requested For","Prodotti Reso richiesti per",module,Magento_Rma
 "Request Qty","Qtà richiesta",module,Magento_Rma
 "Hide Details","Nascondi dettagli",module,Magento_Rma
 "Show Details","Mostra dettagli",module,Magento_Rma
@@ -9048,7 +9048,7 @@ Invoice,Fattura,module,Magento_Sales
 Ship,Spedisci,module,Magento_Sales
 Reorder,Riordina,module,Magento_Sales
 "Order # %1 %2 | %3","Ordine n. %1 %2 | %3",module,Magento_Sales
-"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Questo ordine contiene (%1) articoli e, pertanto, non può essere modificato tramite l'interfaccia di amministrazione. Se si desidera continuare a modificare, saranno rimossi i (%2) elementi, l'ordine sarà annullato e un nuovo ordine sarà creato.",module,Magento_Sales
+"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Questo ordine contiene (%1) articoli e, pertanto, non può essere modificato tramite l'interfaccia di amministrazione. Se si desidera continuare a modificare, saranno rimossi i (%2) prodotti, l'ordine sarà annullato e un nuovo ordine sarà creato.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Sei sicuro? Questo ordine verrà annullato e ne verrà creato uno nuovo.",module,Magento_Sales
 "Save Gift Message","Salva messaggio regalo",module,Magento_Sales
 [deleted],[eliminato],module,Magento_Sales
@@ -9305,7 +9305,7 @@ Number,Numero,module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognize the draw line data. Please define the ""lines"" array.",module,Magento_Sales
 Products,Prodotti,module,Magento_Sales
 "Total (ex)","Totale (es)",module,Magento_Sales
-Qty,Qtà,module,Magento_Sales
+Qty,Quantità,module,Magento_Sales
 Tax,Tassa,module,Magento_Sales
 "Total (inc)","Totale (inc)",module,Magento_Sales
 "Credit Memo #","Nota di credito #",module,Magento_Sales
@@ -9445,7 +9445,7 @@ Item,Oggetto,module,Magento_Sales
 "Payment Information","Informazioni di pagamento",module,Magento_Sales
 "The order was placed using %1.","L'ordine è stato eseguito usando %1.",module,Magento_Sales
 "Shipping Information","Informazioni di spedizione",module,Magento_Sales
-"Items to Refund","Elementi da Rimborsare",module,Magento_Sales
+"Items to Refund","Prodotti da Rimborsare",module,Magento_Sales
 "Return to Stock","Ritorno a magazzino",module,Magento_Sales
 "Qty to Refund","Qty per rimborso",module,Magento_Sales
 "Tax Amount","Importo tasse",module,Magento_Sales
@@ -9456,7 +9456,7 @@ Item,Oggetto,module,Magento_Sales
 "Refund Totals","Rimborso totale",module,Magento_Sales
 "Email Copy of Credit Memo","Copia email della nota di credito",module,Magento_Sales
 "Please enter a positive number in this field.","Inserisci un numero positivo in questo campo.",module,Magento_Sales
-"Items Refunded","Elementi rimborsati",module,Magento_Sales
+"Items Refunded","Prodotti rimborsati",module,Magento_Sales
 "No Items","Nessun Elemento",module,Magento_Sales
 "Memo Total","Totale nota",module,Magento_Sales
 "Credit Memo History","Cronologia nota di credito",module,Magento_Sales
@@ -9512,7 +9512,7 @@ Comment,Commento,module,Magento_Sales
 "Created At","Creato il",module,Magento_Sales
 "Child Transactions","Transazioni figli",module,Magento_Sales
 "Transaction Details","Dettagli della transazione",module,Magento_Sales
-Items,Elementi,module,Magento_Sales
+Items,Prodotti,module,Magento_Sales
 "Gift Message for this Order","Messaggio regalo per questo ordine",module,Magento_Sales
 "Shipped By","Spedito da",module,Magento_Sales
 "Tracking Number","Numero di tracciamento",module,Magento_Sales
@@ -9991,7 +9991,7 @@ Yes,Sì,module,Magento_ScalableInventory
 No,No,module,Magento_ScalableInventory
 "Use Config Settings","Usa Impostazioni di configurazione",module,Magento_ScalableInventory
 [GLOBAL],[GLOBALE],module,Magento_ScalableInventory
-Qty,Qtà,module,Magento_ScalableInventory
+Qty,Quantità,module,Magento_ScalableInventory
 "Out-of-Stock Threshold","Soglia di non disponibilità",module,Magento_ScalableInventory
 "Minimum Qty Allowed in Shopping Cart","Qtà minima consentita nel carrello",module,Magento_ScalableInventory
 "Maximum Qty Allowed in Shopping Cart","Qtà massima consentita nel carrello",module,Magento_ScalableInventory
@@ -10362,11 +10362,11 @@ Contents,Contenuti,module,Magento_Shipping
 Height,Altezza,module,Magento_Shipping
 Size,Dimensione,module,Magento_Shipping
 Girth,Circonferenza,module,Magento_Shipping
-"Items in the Package","Elementi nel pacchetto",module,Magento_Shipping
+"Items in the Package","Prodotti nel pacchetto",module,Magento_Shipping
 Product,Prodotto,module,Magento_Shipping
 Weight,Peso,module,Magento_Shipping
 "Qty Ordered","Qtà ordinata",module,Magento_Shipping
-Qty,Qtà,module,Magento_Shipping
+Qty,Quantità,module,Magento_Shipping
 "No detail for number ""%1""","Nessun dettaglio per il numero ""%1""",module,Magento_Shipping
 "Shipping labels is not available.","Le etichette di spedizione non sono disponibili.",module,Magento_Shipping
 "Response info is not exist.","Informazione di risposta non esistente.",module,Magento_Shipping
@@ -12543,7 +12543,7 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Move to Wishlist","Sposta alla lista desideri",module,Magento_Wishlist
 "Add to Wish List","Aggiungi alla lista desideri",module,Magento_Wishlist
 "View Product","Visualizza prodotto",module,Magento_Wishlist
-Qty,Qtà,module,Magento_Wishlist
+Qty,Quantità,module,Magento_Wishlist
 "Add to Cart","Aggiungi al Carrello",module,Magento_Wishlist
 Availability,Disponibilità,module,Magento_Wishlist
 "In stock",Disponibile,module,Magento_Wishlist
