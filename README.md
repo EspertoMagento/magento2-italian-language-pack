@@ -37,12 +37,6 @@ php bin/magento cache:flush
 
 ```
 
-#### Authentication required (Optional)
-
-![Authentication required]
-
-If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
-
 ## How to active Italian language pack
 
 Now time to active the Italian language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`

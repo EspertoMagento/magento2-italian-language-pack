@@ -9003,7 +9003,7 @@ Print,Stampa,module,Magento_Sales
 "New Invoice for Order #%1","Nuova fattura per ordine #%1",module,Magento_Sales
 "Submit Invoice and Shipment","Invia la fattura e la spedizione",module,Magento_Sales
 "Submit Invoice","Invia la fattura",module,Magento_Sales
-"Are you sure you want to send an invoice email to customer?","Sei sicuro di voler inviare un'email fattura al cliente?",module,Magento_Sales
+"Are you sure you want to send an invoice email to customer?","Sei sicuro di voler inviare la fattura al cliente?",module,Magento_Sales
 "Credit Memo","Nota di credito",module,Magento_Sales
 Capture,Acquisisci,module,Magento_Sales
 "The invoice email was sent.","L'email della fattura è stata inviata.",module,Magento_Sales
@@ -11905,7 +11905,7 @@ username,"nome utente",module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","È il momento di <a href=""%1"">cambiare la password</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","La password è scaduta; si prega di contattare l'amministratore.",module,Magento_User
 "Password Help","Aiuto password",module,Magento_User
-"Enter your email address.  You will receive an email with a link to reset your password.","Inserisci il tuo indirizzo email.  Riceverai un'email con un link per reimpostare la password.",module,Magento_User
+"Enter your email address. You will receive an email with a link to reset your password.","Inserisci il tuo indirizzo email. Riceverai un'email con un link per reimpostare la password.",module,Magento_User
 "Email address","Indirizzo email",module,Magento_User
 "Retrieve Password","Recupera password",module,Magento_User
 "Back to Sign in","Torna alla registrazione",module,Magento_User
